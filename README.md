@@ -1,1 +1,1 @@
-##example.README
+##example of README.md
